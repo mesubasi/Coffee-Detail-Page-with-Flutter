@@ -247,7 +247,7 @@ class _HomepageState extends State<Homepage> {
                   ),
                 ),
                 const Padding(
-                  padding: EdgeInsets.only(top: 30),
+                  padding: EdgeInsets.only(top: 2.5, left:5),
                   child: Text(
                     "\$ 4.35",
                     style: TextStyle(
